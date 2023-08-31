@@ -1,0 +1,3 @@
+-Full Stack Web Developer merupakan salah satu program msib bacth 5 yang meliputi pembelajaran individu dan project akhir dalam bentuk tim. 
+-Pada pembelajaran individu, setiap peserta akan mengikuti kelas dalam bentuk mengikuti online meeting dimana peserta dapat berkonsultasi dengan expert terkait materi yang dipelajarinya.
+-Selain itu, setiap peserta akan memiliki pembimbing sebagai tempat konsultasi jika ditemui kesulitan non-akademik dalam mengikuti pembelajaran.
